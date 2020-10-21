@@ -382,7 +382,6 @@ footer{
     text-align: center;
     font-size: 18px;
     background: #fff;
-
     /* Center slide text vertically */
     display: -webkit-box;
     display: -ms-flexbox;
@@ -397,6 +396,10 @@ footer{
     -webkit-align-items: center;
     align-items: center;
   }
+
+  .swiper-slide img{
+    width: 100%;
+}
 
 
 /* Small Phones from 0 to 480px */
